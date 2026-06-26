@@ -9,7 +9,7 @@
 
 - 🌱 I'm currently learning **Spring Boot, PostgreSQL and Microsoft Azure**
 
-- 👯 I'm looking to collaborate on **open-source web projects** (frontend or full-stack) — [my repositories](https://github.com/RojusDEV?tab=repositories)
+- 👯 I'm looking to collaborate on **open-source web projects** - [my repositories](https://github.com/RojusDEV?tab=repositories)
 
 - 👨‍💻 All of my projects are available at **[rojus-dev.vercel.app](https://rojus-dev.vercel.app/)**
 
