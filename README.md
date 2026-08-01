@@ -21,7 +21,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 💸 Expense Detector | Bank statement import & spending analytics - CSV pipeline, JWT auth, filterable transactions UI | Spring Boot, PostgreSQL, React, TypeScript |
+| 💸 [Expense Detector](https://github.com/RojusDEV/expense-detector) | Bank statement import & spending analytics - CSV pipeline, JWT auth, filterable transactions UI | Spring Boot, PostgreSQL, React, TypeScript |
 | 🗒️ [Losion](https://losion.vercel.app) | Minimal note-taking app, live on Vercel | React, TypeScript |
 | 💼 [neapsikrauk](https://github.com/RojusDEV/neapsikrauk) | Job listings near you, with smart filtering | Node.js, Express.js, React |
 | 📝 [Notion_Clone](https://github.com/RojusDEV/Notion_Clone) | Notion-style editor clone | React, Supabase |
